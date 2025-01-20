@@ -38,9 +38,9 @@ Requirements
       Open a terminal and navigate to the directory containing the script.
       
       Run the program using the command:
-           python calculator.py
+           python calculator_project.py
       
-      python calculator.py
+      
       
       Follow the on-screen instructions to perform calculations. 
 
