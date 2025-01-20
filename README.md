@@ -10,13 +10,13 @@ Features
 
   Supports the following operations:
   
-  Addition (+)
-  
-  Subtraction (-)
-  
-  Multiplication (*)
-  
-  Division (/)
+          Addition (+)
+          
+          Subtraction (-)
+          
+          Multiplication (*)
+          
+          Division (/)
   
   Allows chaining calculations by continuing with the result of the previous operation.
   
